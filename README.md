@@ -1,0 +1,2 @@
+# projekt-lodzi
+Pliki projektu
